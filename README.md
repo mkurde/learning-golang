@@ -1,1 +1,1 @@
-# learing-golang
+# learning-golang
