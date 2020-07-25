@@ -1,0 +1,16 @@
+---
+
+# Server configuration
+server:
+  host: "0.0.0.0"
+  port: 8080
+
+slack:
+  signingSecret: "abc"
+  botUserOauthAccessToken: "xyz"
+
+opsgenie:
+  apiKey: "foobar"
+
+appConfiguration:
+  debugLevel: Warn
