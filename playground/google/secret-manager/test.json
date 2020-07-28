@@ -1,0 +1,1 @@
+{"Server":{"Host":"0.0.0.0", "Port":"8080"}, "Slack":{"SigningSecret":"abc", "BotUserOauthAccessToken":"xyz"}, "Opsgenie":{"APIKey":"foobar"}, "AppConfiguration":{"DebugLevel":"Warn"}}
